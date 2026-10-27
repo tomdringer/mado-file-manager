@@ -44,7 +44,7 @@ const ROW_H:     f32 = 22.0;
 const INDENT_W:  f32 = 16.0;
 const PADDING_L: f32 = 8.0;
 const ICON_W:    f32 = 16.0;
-const FONT_SIZE: f32 = 13.0;
+const FONT_SIZE: f32 = 18.0;
 
 // ── MACT helpers ──────────────────────────────────────────────────────────────
 
